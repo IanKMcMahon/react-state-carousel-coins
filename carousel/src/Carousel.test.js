@@ -31,7 +31,10 @@ it("works when you click on the right arrow", function() {
   ).toBeInTheDocument();
 });
 
+// Smoke Test 
 
 it("renders without crashing", function() {
   render(<Carousel />);
 });
+
+// Snapshot Test

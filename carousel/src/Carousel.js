@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Carousel.css";
-import Card from "Card.js";
+import Card from "./Card";
 
 
 /** Carousel: displays images and arrows to navigate through them
